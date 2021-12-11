@@ -32,12 +32,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Antidot\\Async\\Logger\\": "src"
+            "Antidot\\Async\\Logger\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Antidot\\Test\\Async\\Logger\\": "test"
+            "Antidot\\Test\\Async\\Logger\\": "test/"
         }
     },
     "scripts": {
