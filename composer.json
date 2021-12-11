@@ -13,16 +13,9 @@
             "name": "kpicaza"
         }
     ],
-    "repositories": [
-        {
-            "type": "github",
-            "url": "git@github.com:WyriHaximus-labs/filesystem.git"
-        }
-    ],
     "require": {
         "php": ">=8.1",
         "monolog/monolog": "^2.3",
-        "react/filesystem": "rewrite-dev",
         "webmozart/assert": "^1.10"
     },
     "require-dev": {
